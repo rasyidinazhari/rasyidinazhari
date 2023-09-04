@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Wisnu Rasyidin Azhari**.\
 
-Saya seorang **Junior Developer** di [Dicoding](https://www.dicoding.com/).\
+Saya seorang **Junior Developer Intern** di [Atamagri](https://www.atamagri.com/).\
 
 Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).\
 
