@@ -17,8 +17,8 @@ An independent technology enthusiast who loves to create and share projects abou
 
 <p align="left">
 <a href="https://github.com/rasyidinazhari">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rasyidinazharii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rasyidinazharii&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rasyidinazharii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rasyidinazharii&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
