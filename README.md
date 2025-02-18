@@ -2,7 +2,6 @@
 
 An independent technology enthusiast who loves to create and share projects about web and mobile technology! and got interest with Data Analyst, Web Development, Cybersec, App Development.
 
-- 🔭 I’m currently intern at <a href="https://mersiflab.com/">@MersifLab</a>
 - 🌱 I’m currently learning about cloud technology & cyber security.
 - 💬 Feel free to ask me about web development & cyber security.
 
