@@ -83,7 +83,7 @@
     <img src="https://github.com/rasyidinazhari/skill-icons/blob/icons/microsoftSQL.svg" alt="mssql" width="50" height="50"/> 
   </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="50" height="50"/> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="50" height="50"/> 
   </a> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/rasyidinazhari/skill-icons/blob/icons/Photoshop.svg" alt="photoshop" width="50" height="50"/> 
