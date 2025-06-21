@@ -32,8 +32,7 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rasyidinazhari&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=rasyidinazhari&theme=dark&show_icons=true&count_private=true" />
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rasyidinazhari&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <br></br>
 
 </td>
