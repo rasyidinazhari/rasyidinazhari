@@ -7,13 +7,11 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently is a software engineer at Enuma Technology
+- 🌱 I’m currently is a software engineer at ???
   
-- ⚡ life long learner if it about Web, Mobile, AI Development
+- ⚡ life long learner if it about Web, Mobile, AI & IoT Development
 
 - 📫 reach me on **rasyidinazhari@gmail.com**
-  
-- ⚡ Fun fact **Call me as Azhar**
 
 </td>
 <td width="50%" align="center">
@@ -77,22 +75,22 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/> 
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/rasyidinazhari/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/> 
   </a> 
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/rasyidinazhari/skill-icons/blob/icons/microsoftSQL.svg" alt="mssql" width="50" height="50"/> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/icons/microsoftSQL.svg" alt="mssql" width="50" height="50"/> 
   </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="50" height="50"/> 
   </a> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/rasyidinazhari/skill-icons/blob/icons/Photoshop.svg" alt="photoshop" width="50" height="50"/> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/icons/Photoshop.svg" alt="photoshop" width="50" height="50"/> 
   </a> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/rasyidinazhari/skill-icons/blob/icons/PHP-Light.svg" alt="php" width="50" height="50"/> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/icons/PHP-Light.svg" alt="php" width="50" height="50"/> 
   </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/rasyidinazhari/skill-icons/blob/icons/TailwindCSS-Light.svg" alt="tailwind" width="50" height="50"/> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/icons/TailwindCSS-Light.svg" alt="tailwind" width="50" height="50"/> 
   </a> 
 </p>
 
