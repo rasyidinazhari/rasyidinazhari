@@ -7,11 +7,11 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently is a software engineer at ???
+- I’m currently is a software engineer at ???
   
-- ⚡ life long learner if it about Web, Mobile, AI & IoT Development
+- life long learner if it about Web, Mobile, AI & IoT Development
 
-- 📫 reach me on **rasyidinazhari@gmail.com**
+- reach me on **rasyidinazhari@gmail.com**
 
 </td>
 <td width="50%" align="center">
