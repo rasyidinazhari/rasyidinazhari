@@ -9,7 +9,7 @@
   
 - I’m currently is a software engineer at ???
   
-- life long learner if it about Web, Mobile, AI & IoT Development
+- life long learner 
 
 - reach me on **rasyidinazhari@gmail.com**
 
